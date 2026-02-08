@@ -24,8 +24,3 @@ I love creating interactive and user-friendly web experiences!</p>
 <p align="center">🛒 Creating and running profitable e-commerce shops 🛒</p>
 <p align="center">📈 Creating light and appealing profitable landing pages 📈</p>
 <p align="center">💰 Affiliate marketing 💸</p>
-<h3 align="center">Learning:</h3>
-<p align="center">-React Native</p>
-<p align="center">-NodeJS</p>
-<p align="center">-UI/UX Designs</p>
-<p align="center">-Marketing, content creation</p>
