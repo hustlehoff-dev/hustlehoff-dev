@@ -24,3 +24,5 @@ I love creating interactive and user-friendly web experiences!</p>
 <p align="center">🛒 Creating and running profitable e-commerce shops 🛒</p>
 <p align="center">📈 Creating light and appealing profitable landing pages 📈</p>
 <p align="center">💰 Affiliate marketing 💸</p>
+
+Date created: March 2024
