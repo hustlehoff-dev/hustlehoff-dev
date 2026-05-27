@@ -1,28 +1,37 @@
-<h1 align="center">Cześć!👋 I'm Adrian :)</h1>
+# Hi, I'm Adrian 👋
 
-<h3 align="center">A passionate developer from Poland</h3>
+Frontend / WordPress Developer from Poland, building practical web solutions for local businesses, service companies and technical niches.
 
-<h3 align="center">About Me</h3>
+I work mainly with **JavaScript, TypeScript, React, Next.js and WordPress**, with a strong focus on:
 
-<p style="text-align:justify;">Hi! 👋 I'm Adrian, a passionate developer, SEO Ninja and investor from Poland. Former professional sales representative.
-I love creating interactive and user-friendly web experiences!</p>
+* lead-generation websites,
+* headless CMS projects,
+* custom WordPress themes and plugins,
+* API integrations,
+* technical SEO,
+* responsive and performance-focused UI.
 
-<p align="center">🗣 Languages: Polish (Native), English (B2) 🗣</p>
-<p align="center">💪 In love with fitness, cycling, healthy habits 🚴</p>
-<p align="center">📊 Interesting topics: self-development, investing 📊</p>
-<p align="center">Get in touch with me on <a href="https://www.linkedin.com/in/kaczmarek-adrian-pl/">Linkedin</a> and send a pic of <img src="https://icons.iconarchive.com/icons/iconarchive/dogecoin-to-the-moon/512/Doge-icon.png" width="24px"></p>
+My background combines development, sales, SEO and real business projects — so I care not only about clean code, but also about what the website or app is supposed to achieve.
 
-<h3 align="center">Skills:</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,javascript,jquery,wordpress,photoshop,git,typescript,react,nextjs&perline=16" alt="Tech Stack" />
- </p>
+Currently growing toward **Fullstack Development, Technical Consulting and Solutions Engineering**.
 
-<h3 align="center">Experience in:</h3>
-<p align="center">🔍 SEO/Web Positioning 🔍</p>
-<p align="center">📱 Responsive Web Design 💻</p>
-<p align="center">🤝 Managing social media profiles and pages 🤝</p>
-<p align="center">🛠️ Developing and customizing WordPress themes 🛠️</p>
-<p align="center">🛒 Creating and running profitable e-commerce shops 🛒</p>
-<p align="center">📈 Creating light and appealing profitable landing pages 📈</p>
-<p align="center">💰 Affiliate marketing 💸</p>
+## What I build
 
-Date created: March 2024
+* Custom WordPress websites without heavy page builders
+* Headless WordPress + Next.js frontends
+* Local lead-generation websites
+* Booking and contact systems
+* PWA/web apps for service businesses
+* SEO-focused landing pages
+* API integrations and automation tools
+
+## Tech stack
+
+**Core:**
+JavaScript, TypeScript, React, WordPress, PHP, HTML, CSS/SCSS, REST API, Git
+
+**Practical project experience:**
+Next.js, Node.js, Express, Firebase, WooCommerce, Headless CMS, WordPress REST API, GraphQL, Nodemailer, API integrations, Vercel
+
+**Project exposure:**
+Angular, Vue, SvelteKit, PostgreSQL, OAuth2, payment integrations, Canvas API
